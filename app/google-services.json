@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:643371850822:android:d78ca7eb18c5e102",
         "android_client_info": {
-          "package_name": "info.fandroid.chat"
+          "package_name": "ru.repeus.chat"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "643371850822-1ckg23n4bunpbhi2agn6f5212idfddpb.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "info.fandroid.chat",
+            "package_name": "ru.repeus.chat",
             "certificate_hash": "823234ab22c2f9f64676c87cf1ec4eed51bda650"
           }
         },
@@ -47,7 +47,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:643371850822:android:4e470249a7425194",
         "android_client_info": {
-          "package_name": "info.fandroid.chats"
+          "package_name": "ru.repeus.chats"
         }
       },
       "oauth_client": [
